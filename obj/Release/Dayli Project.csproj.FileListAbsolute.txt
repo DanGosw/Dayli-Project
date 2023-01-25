@@ -1,0 +1,13 @@
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\bin\Release\Dayli Project.exe.config
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\bin\Release\Dayli Project.exe
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\bin\Release\Dayli Project.pdb
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\bin\Release\Guna.UI2.dll
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli Project.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli_Project.Form1.resources
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli_Project.Properties.Resources.resources
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli Project.csproj.GenerateResource.cache
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli Project.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli Project.csproj.CopyComplete
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli Project.exe
+C:\Users\danny\OneDrive\Documentos\Personal Projects\Dayli Project\obj\Release\Dayli Project.pdb
